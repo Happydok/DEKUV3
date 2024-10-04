@@ -10,14 +10,14 @@
     "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
   },
   "TAG": ["4"],
-  "PREFIX": "!",
-  "ADMINBOT": ["100087212564100"],
-  "VIP": ["100087212564100"],
-  "BOTNAME": "chilli bot",
+  "PREFIX": ".",
+  "ADMINBOT": [""],
+  "VIP": [""],
+  "BOTNAME": "mamamo",
   "SETTING": {
     "AUTORESEND": true,
     "AUTOREACT": true,
-    "ADMINONLY": true,
+    "ADMINONLY": false,
     "DETECTTYPING": false,
     "AUTOCOMMENT": false,
     "AUTOPOST": true
